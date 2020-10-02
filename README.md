@@ -1,2 +1,2 @@
-# drift_kinetics_test
-Test of a single particle drift kinetics solver in 3D
+# Drift Kinetics Test
+Test of a single particle drift kinetics solver with RK4 in 3D
